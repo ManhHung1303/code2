@@ -6,12 +6,11 @@ const CONFIG = {
   desc: "Châu Linh ơi, em có thể cho anh 1 cơ hội được làm người yêu em đồng hành cùng em  nka 😘😘   ",
   btnYes: "Em đồng ý  <33",
   btnNo: "Không ạ :3",
-  question:
-    "Trên thế giới hơn 7 tỉ người em là người đặc biệt nhất đối với anh <3",
+  question: "Giữa hàng vạn người  em là cô gái  đặc biệt nhất đối với anh  <3",
   btnReply: "Gửi cho anh <3",
-  reply: "ok a",
+  reply: "dạ ",
   mess: "Yêu em nhiều lém  😘😘",
-  messDesc: "Em đồng ý , anh có thể nguyện mời em một bữa nhé ",
+  messDesc: " Anh  hẹn em 1 buổi ở ngoài tết nhé  công chúa .Yêu em!  ",
   btnAccept: "Okiiiii lun <3",
-  messLink: "https://www.facebook.com/messages/e2ee/t/9084197011670398", //link mess của các bạn. VD: https://m.me/nam.nodemy
+  messLink: "https://manhhung1303.github.io/codeheart/",
 };
